@@ -15,3 +15,6 @@ bin/*
 
 # intellij idea
 *.iml
+
+# eclipse
+.project

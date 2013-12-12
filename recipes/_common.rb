@@ -9,6 +9,3 @@ python_pip 'virtualenvwrapper' do
     action :install
     version '3.5'
 end
-
-python_pip 'ipython'
-python_pip 'ipdb'
